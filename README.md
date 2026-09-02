@@ -95,3 +95,6 @@ uniborrow/
 ## Important limitation
 
 This project is intentionally client-only. Accounts, password demo hashes, uploaded images, and transactions are stored in localStorage on the current browser. This is appropriate for a university demonstration using fictional data, but it is not secure or suitable for real personal information. A production version would require server-side authentication, a database, access control, and secure file storage.
+
+
+in case https://nuntipatprajuabsuk-hub.github.io/uniborrow001/
